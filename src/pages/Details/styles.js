@@ -58,7 +58,7 @@ export const Container = styled.div`
         flex-direction: column;
       }
       .details{
-        width: 100%;
+        max-width: 100%;
       }
       .button{
         background-color: white;
