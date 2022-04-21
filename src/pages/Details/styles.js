@@ -60,5 +60,8 @@ export const Container = styled.div`
       .details{
         width: 100%;
       }
+      .button{
+        background-color: white;
+      }
   }
 `;
