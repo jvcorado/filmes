@@ -55,10 +55,13 @@ export const Container = styled.div`
 
   @media (max-width:500px) {
       .movie{
+        background-color: #5848c2;
         flex-direction: column;
       }
       .details{
         max-width: 100%;
+        align-items: center;
+        margin-left: 0;
       }
       .button{
         background-color: white;
