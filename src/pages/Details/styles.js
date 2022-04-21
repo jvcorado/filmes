@@ -63,7 +63,7 @@ export const Container = styled.div`
         align-items: center;
         margin-left: 0;
       }
-      .button{
+      button{
         background-color: white;
       }
   }
