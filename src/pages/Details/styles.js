@@ -57,5 +57,8 @@ export const Container = styled.div`
       .movie{
         flex-direction: column;
       }
+      .details{
+        width: 100%;
+      }
   }
 `;
