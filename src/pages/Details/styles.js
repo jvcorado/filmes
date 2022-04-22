@@ -64,7 +64,6 @@ export const Container = styled.div`
       }
       .movie{
         justify-content: none;
-        background-color: green;
         flex-direction: column; 
       }
       .details{
