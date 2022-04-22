@@ -56,7 +56,7 @@ export const Container = styled.div`
   @media (max-width:500px) {
 
       img{
-        width: 180px;
+      
         margin-top: 20px;
       }
       .movie{
