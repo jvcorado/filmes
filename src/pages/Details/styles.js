@@ -65,6 +65,8 @@ export const Container = styled.div`
         max-width: 100%;
         align-items: center;
         margin-left: 0;
+        background-color: red;
       }
+  }
      
-`;
+`
