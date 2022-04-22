@@ -54,6 +54,10 @@ export const Container = styled.div`
   }
 
   @media (max-width:500px) {
+
+      img{
+        width: 180px;
+      }
       .movie{
         width: 100vw;
         justify-content: none;
