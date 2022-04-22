@@ -58,7 +58,7 @@ export const Container = styled.div`
       padding: 0;
 
       img{
-        width: 180px;
+        width: 250px;
         margin-top: 20px;
       }
       .movie{
