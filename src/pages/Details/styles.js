@@ -59,6 +59,7 @@ export const Container = styled.div`
         justify-content: none;
         background-color: red;
         flex-direction: column;
+        background-color: blue;
       }
       .details{
         max-width: 100%;
