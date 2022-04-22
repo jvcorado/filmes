@@ -64,14 +64,12 @@ export const Container = styled.div`
       .movie{
         justify-content: none;
         background-color: green;
-        flex-direction: column;
-        background-color: blue;
+        flex-direction: column; 
       }
       .details{
         max-width: 100%;
         align-items: center;
         margin-left: 0;
-        background-color: red;
       }
   }
      
