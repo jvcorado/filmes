@@ -57,6 +57,7 @@ export const Container = styled.div`
 
       img{
         width: 180px;
+        margin-top: 20px;
       }
       .movie{
         width: 100vw;
