@@ -39,7 +39,7 @@ export const Container = styled.div`
     max-width: 50%;
   }
   button {
-    background-color: black;
+    background-color: #5848c2;
     border: none;
     cursor: pointer;
     border-radius: 1rem;
@@ -66,8 +66,5 @@ export const Container = styled.div`
         align-items: center;
         margin-left: 0;
       }
-      button{
-        background-color: white;
-      }
-  }
+     
 `;
