@@ -60,9 +60,8 @@ export const Container = styled.div`
         margin-top: 20px;
       }
       .movie{
-        width: 100vw;
         justify-content: none;
-        background-color: red;
+        background-color: green;
         flex-direction: column;
         background-color: blue;
       }
