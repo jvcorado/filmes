@@ -55,7 +55,7 @@ export const Container = styled.div`
 
   @media (max-width:500px) {
       .movie{
-        width: 100%;
+        width: 100vw;
         justify-content: none;
         background-color: red;
         flex-direction: column;
